@@ -1,4 +1,4 @@
-# 🧠 Fallacy Finder
+# 🧠 Fallacy Finder (Flutter APP)
 
 Fallacy Finder is a simple and educational Flutter app that helps users identify common cognitive distortions, logical fallacies, and thinking errors in their thoughts — all **offline**, with no internet or AI required.
 
@@ -27,7 +27,7 @@ Fallacy Finder is a simple and educational Flutter app that helps users identify
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/fallacy_finder.git
+git clone https://github.com/bektas-sari/fallacy_finder.git
 cd fallacy_finder
 ```
 
