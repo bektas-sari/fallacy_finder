@@ -65,5 +65,6 @@ MIT License © 2025 Bektas SARI
 
 Email: bektas.sari@gmail.com
 LinkedIn: www.linkedin.com/in/bektas-sari
+ResearchGate: https://www.researchgate.net/profile/Bektas-Sari-3
 
 
